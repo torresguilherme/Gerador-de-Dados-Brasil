@@ -5,3 +5,5 @@ Este projeto contém a descrição de um personagem fictício adequado para uso 
 Site base : ELF QRIN'S HIDDEN LAB
 
 ![image](https://github.com/user-attachments/assets/23f7e2b7-dc36-4c01-8df3-18b72b4ecf95)
+
+link do site : https://fakeidbr.netlify.app/
