@@ -14,7 +14,6 @@ body {
     background-color: #ffffff;
 }
 
-
 header a:hover {
     background-color: rgba(0, 0, 0, 0);
     border-radius: 1%;
@@ -55,6 +54,7 @@ input {
     border: 1px solid #ccc; 
     border-radius: 4px;    
 }
+
 button {
     margin-top: 20px;
     padding: 15px;         
@@ -72,3 +72,22 @@ button:hover {
     background-color: #ac0808; 
 }
 
+
+@media (max-width: 600px) {
+    .gerador1 {
+        width: 90%; 
+    }
+
+    .gerador1 > div {
+        flex: 1 1 100%; 
+    }
+
+    button {
+        font-size: 18px; 
+        padding: 10px; 
+    }
+
+    h1, h2, h3 {
+        padding: 1em 10%; 
+    }
+}
